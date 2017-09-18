@@ -1,0 +1,11 @@
+break kernel_main
+continue
+set {char [8]} 0xa028 = {'z','h','e','n','z','2','a','b'}
+set {int} 0xb020 = 14642
+set {char [8]} 0xa034 = {'g','o','o','d','s','h','o','w'}
+set {char [8]} 0xa000 = {'F','a','e','R','V',22,'m','u'}
+set {int [8]} 0xb000 = {2130,-13295,38094,-60809,58264,-33498,10702,-1466}
+continue
+
+
+
